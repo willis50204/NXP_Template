@@ -1,0 +1,3 @@
+../source/loops.c:66:13:eloopHandle	32	static
+../source/loops.c:82:13:iotkHandle	24	static
+../source/loops.c:99:6:LOOP_Start	40	static

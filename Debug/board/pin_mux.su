@@ -1,0 +1,7 @@
+C:\Users\willi\Documents\MCUXpressoIDE_11.9.1_2170\workspace\MCXN236_Systemplate\drivers/fsl_clock.h:1140:20:CLOCK_EnableClock	24	static
+C:\Users\willi\Documents\MCUXpressoIDE_11.9.1_2170\workspace\MCXN236_Systemplate\drivers/fsl_port.h:355:20:PORT_SetPinConfig	32	static
+../board/pin_mux.c:37:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:63:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:137:6:BOARD_InitSWD_DEBUGPins	24	static
+../board/pin_mux.c:234:6:BOARD_InitLEDsPins	24	static
+../board/pin_mux.c:329:6:BOARD_InitBUTTONsPins	16	static
